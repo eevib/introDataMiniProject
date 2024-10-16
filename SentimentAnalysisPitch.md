@@ -3,7 +3,7 @@
 Sami, Eevi, Joonatan
 
 ### What we wanted
-- Improve understanding and provide valuable insights for
+- Improve understanding and provide valuable insights of comments made on online news articles
 - researchers, publishers and the general public.
 
 Answering questions such as:
