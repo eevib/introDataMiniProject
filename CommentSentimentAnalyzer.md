@@ -37,4 +37,4 @@ Analysis
 -	Negative comments have slightly more interaction on average
 -	No statistical difference in sentiment distribution between male and female commenters
 
-![Distribution on female and male commenters](/images/piechart.png "Distribution on female and male commenters")
+![Distribution of female and male commenters](/images/piechart.png "Distribution of female and male commenters") ![Distribution of vote in different sentiment categories](/images/boxplot.png "Distribution of vote in different sentiment categories")
