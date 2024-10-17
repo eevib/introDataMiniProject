@@ -18,7 +18,7 @@ Article identifiers -> Comments from open HS API -> EDA -> Preprocessing and enr
 ### Data analysis
 
 Exploratory data analysis:
-- 200 articles, 7000 comments, Hs.fi/Politics
+- 205 articles, 7575 comments, Hs.fi/Politics
 - Small fragment of content receives majority of interaction
 
 Preprocessing
