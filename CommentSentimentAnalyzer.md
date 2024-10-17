@@ -41,4 +41,4 @@ Analysis
 ![A pie chart on the distribution on female and male commenters](/images/piechart.png "Distribution on female and male commenters")
 ![A bar chart on the distribution of sentiments.](/images/sentiment_distribution.png "Distribution on sentiments")
 ![Distribution of votes on comments](/images/distributionOfVotesOnComments.png "Distribution of votes on comments")
-![Distribution of comment lengths](/images/distributionOfCommentsLengths.png "Distribution of comment lengths")
+![Distribution of comment lengths](/images/distributionOfCommentLengths.png "Distribution of comment lengths")
