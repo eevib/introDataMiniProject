@@ -13,7 +13,7 @@ Answering questions such as:
 
 ### Pipeline to analyze user comment sentiment
 
-Article identifiers -> Comments from open HS API -> EDA -> Preprocessing and enrichment -> Analysis
+Article identifiers from scraping HS politics section -> Comments from open HS API -> EDA -> Preprocessing and enrichment -> Analysis
 
 ### Data analysis
 
@@ -26,7 +26,7 @@ Preprocessing
 - Statistical sex inference
 
 Analysis
-- FinnSentiment BERT model to assess sentiment
+- FinnSentiment BERT model to assess sentiment (trained with 27 000 Finnish sentences)
 - Statistical analysis from labeled data
 
 ### Results
