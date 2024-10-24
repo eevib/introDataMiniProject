@@ -39,7 +39,9 @@ With our data, we moved on to processing the data for further analysis. This had
 
 We wanted to gather some information on the commenters in aggregate in addition to the comment characteristics. We used rudimentary statistical inference to assess whether a commenter was male or female. After this was done, we removed all real name information from the comments metadata, as we wanted the rest of the process to only handle anonymised data and ensure GDPR compliance.
 
-For our analysis, we used FinnSentiment BERT model to assess sentiment. FinnSentiment was trained with 27 000 Finnish sentences with three human annotators, labeling sentences as positive, negative or neutral with certain confidence. We then used statistical analysis to draw insights from the labeled data. Following are our key results.
+For our analysis, we used FinnSentiment BERT model to assess sentiment. FinnSentiment was trained with 27 000 Finnish sentences with three human annotators, labeling sentences as positive, negative or neutral with certain confidence. We then used statistical analysis to draw insights from the labeled data.
+
+Following are the core of our results. With these promising initial results, we hope to answer the key question posed and provide valuable insight for researchers, publishers and the general public.
 
 
 ### Results
