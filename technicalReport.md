@@ -62,7 +62,7 @@ We also had very little experience in extracting data from online sources and tr
 Finally, it was fun and rewarding to see that the sentiment analyser worked surprisingly well.
 
 ### Future steps
-It would be very interesting to conduct a similar analysis using a larger and more complete set of data from HS.fi. Are users similarly active commenters in other topics as well. Do they have similar phenomenon in comment and vote distribution. Are some topics dominated by either male or female audiences? Are men more active commenters in general or only when talking about politics? Comparison between different news outlets would be interesting as well, although this might be a more difficult task since many sites don’t require the commenters to use their real names. 
+It would be very interesting to conduct a similar analysis using a larger and more complete set of data from HS.fi. Are users similarly active commenters in other topics as well? Do they have similar phenomenon in comment and vote distribution? Are some topics dominated by either male or female audiences? Are men more active commenters in general or only when talking about politics? Comparison between different news outlets would be interesting as well, although this might be a more difficult task since many sites don’t require the commenters to use their real names. 
 
 It would be nice to do a website that would show recent statistics of the comments, however, this would need permission from Helsingin Sanomat.
 
