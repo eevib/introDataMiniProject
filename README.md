@@ -6,7 +6,7 @@ Team: Eevi Bengs, Joonatan Strang, Sami Pulli
 [Blogpost: Sentiment analysis on news article comments](https://github.com/eevib/introDataMiniProject/blob/main/ProjectBlog.md)
 
 ## Technical report
-[Technical report](https://github.com/eevib/introDataMiniProject/blob/main/Group%20Assignment%20Technical%20Report.odt)
+[Technical report](https://github.com/eevib/introDataMiniProject/blob/main/technicalReport.md)
 
 ## Miniproject canvas 
 [Miniproject canvas](https://docs.google.com/document/d/1RJKgGe0vVkGnCps-HEY4bKLQI1y0CzpytwS5tpvuaKY/edit#heading=h.pg57voj6n86v)
