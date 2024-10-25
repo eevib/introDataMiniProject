@@ -1,7 +1,7 @@
 # Mini-project Technical Report
-Introduction to Data Science
-Bengs, Pulli, Strang
-28.10.2024
+Introduction to Data Science  
+Bengs, Pulli, Strang  
+28.10.2024  
 
 ### Online deliverables available at:
 [Github page](https://github.com/eevib/introDataMiniProject)
