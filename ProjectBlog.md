@@ -1,6 +1,6 @@
 # Sentiment analysis on news article comments
 
-31 Oct 2024 - Sami, Eevi, Joonatan
+28 Oct 2024 - Sami, Eevi, Joonatan
 
 ### Understanding online discourse in Finnish
 
