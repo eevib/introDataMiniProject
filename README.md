@@ -1,4 +1,4 @@
-# introDataMiniProject
+# Sentiment analysis on news article comments
 Introduction to data science miniproject
 
 ## Miniproject canvas 
