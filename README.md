@@ -1,5 +1,6 @@
 # Sentiment analysis on news article comments
-Introduction to data science miniproject. Team: Eevi Bengs, Joonatan Strang, Sami Pulli
+Introduction to data science miniproject. 
+Team: Eevi Bengs, Joonatan Strang, Sami Pulli
 
 ## Blogpost
 [Blogpost: Sentiment analysis on news article comments](https://github.com/eevib/introDataMiniProject/blob/main/ProjectBlog.md)
